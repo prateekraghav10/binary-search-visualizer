@@ -1,0 +1,40 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family :cursive
+    }
+    
+    .header {
+    font-size: 35px;
+    text-align: center;
+    }
+    
+    #array {
+    background-color: #ffffff;
+    height: 305px;
+    width: 598px;
+    margin: auto;
+    position: relative;
+    margin-top: 64px;
+    }
+    
+    .block {
+    width: 28px;
+    color : #cac831;  
+    background-color: #791c69;
+    position: absolute;
+    bottom: 0px;
+    transition: 0.5s all ease; 
+    }
+    
+    .block_id {
+    position: absolute;
+    color: black;
+    margin-top: -20px;
+    width: 100%;
+    text-align: center;
+    font-weight: 400;
+    font-size : 15px;
+    }
